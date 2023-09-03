@@ -27,9 +27,10 @@ This web application is designed to display the current weather conditions for a
 
 You can check out a live demo of the application [here](#insert-demo-link).
 
-![Demo Screenshot](screenshot.png)
+
 
 ## Installation
 
 1. Clone the repository to your local machine using:
 
+https://github.com/EqualFury15/Weather.git
